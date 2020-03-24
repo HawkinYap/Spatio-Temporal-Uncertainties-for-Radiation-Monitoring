@@ -5,12 +5,12 @@
 本系统实现了一种城市级核辐射时空可视化监控的可视分析方法，该方法将时空可视化与不确定性可视化方法结合起来，在时空可视化中采用了辐射读数折线图和地理网格插值两种方法展示核辐射示数的时空信息，在不确定性可视化中设计了多层次信息树图、基于网格的不确定性框图、基于模糊度的不确定性面积图、基于不确定性数值运算的色带图，并提供了多种交互手段实现两种数据的联动分析、相互验证和取长补短。针对静态传感器地理检测范围的不确定和动态传感器示数不稳定的情况，将动静态传感器示数的时空显示、两者的不确定性区域与交互设计结合起来，相互佐证，共同决策。分析人员根据专业经验和从其它视图中获得的信息，以总控核辐射时间序列变化图，核辐射不确定性表征的示数地图以及多层次数图作为人机交互接口，调节不同时段的自动化时序数据聚类结果或选定特定传感器，地图界面根据调节内容显示相应的示数与不确定性运算结果。本系统还设计了一套新颖的不确定性量化指标，与动静态传感器读数的关键特征相对应，这些指标是在美国国家安全层次划分方法的基础上定义的，并用梯形模糊隶属函数进行度量，通过星型等级进行可视化展示，从而定量的展示传感器示数的不确定性情况，有助于分析人员了解不同传感器的多特征时变模式。
 
 ## 系统案例展示1
-![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/raw/master/assets/case1.jpg)
+![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/tree/master/assets/case1.jpg)
 ## 系统案例展示2
-![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/raw/master/assets/case2.jpg)
+![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/tree/master/assets/case2.jpg)
 ## 系统功能展示
-![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/raw/master/assets/case3.jpg)
+![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/tree/master/assets/case3.jpg)
 ## 系统视频介绍
-![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/raw/master/assets/video.gif)
+![image](https://github.com/HawkinYap/Spatio-Temporal-Uncertainties-for-Radiation-Monitoring/tree/master/assets/video.gif)
 
  
